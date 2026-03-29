@@ -6,7 +6,7 @@ namespace PROG6221_Part1_ST10470298
 {
     internal class Console_UI
     {
-        public static void DisplayHeader()
+        public void DisplayHeader()
 
 
         {

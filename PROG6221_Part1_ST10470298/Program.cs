@@ -13,7 +13,7 @@ namespace PROG6221_Part1_ST10470298
             //  AIVoice voice = new AIVoice(greetpath);
             //  voice.PlayGreeting();
 
-            Console_UI.DisplayHeader();
+           // Console_UI.DisplayHeader();
             
             //I ask the user for there name
            // ChatBot bot = new ChatBot();    
